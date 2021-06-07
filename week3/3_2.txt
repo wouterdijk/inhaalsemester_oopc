@@ -1,0 +1,12 @@
+1 = niks	
+2 = niks
+3 = error, omdat ICE het type train heeft en die kan door de overerving niet komen bij type car
+4 = error, omdat batmobiel het type car heeft en die kan door de overerving niet komen bij type train
+5 = niks
+6 = niks
+7 = niks
+8 = error, omdat type car niet bij type intercity kan komen
+9 = niks
+10 = error, omdat type train niet bij type car kan komen
+11 = error, omdat type intercity niet bij type car kan komen	
+12 = niks
