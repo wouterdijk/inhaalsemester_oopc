@@ -1,0 +1,11 @@
+- 8 gpio pins
+	- volt pin
+	- ground pin
+	- sclk pin
+	- mosi pin
+	- miso pin
+	- ss pin spi 1
+	- ss pin spi 2
+	- ss pin spi 3
+
+- Om meerdere spi's in serie te zetten om een heel groot schuifregister te maken.
