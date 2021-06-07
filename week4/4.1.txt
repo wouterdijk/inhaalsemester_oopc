@@ -1,0 +1,8 @@
+1. Als je bare metal programmeerd programmeer je meteen op
+   de controller en draait de controller dus alleen de applicatie
+   en niks anders.
+2. Daardoor kunnen pins worden uitgelezen.
+3. Om te voorkomen dat er name-clashes voorkomen wat voorkomt als
+   bijvoorbeeld in 2 libraries dezelfde naam wordt gebruikt kan
+   je errors voorkomen door namespaces te gebruiken.
+   
