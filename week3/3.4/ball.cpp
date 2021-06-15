@@ -19,6 +19,7 @@ void ball::interact( drawable & other ){
         if( overlaps( other )){
             speed.x *= other.bounce.x;
             speed.y *= other.bounce.y;
+            update();
         }
     }
 } 
