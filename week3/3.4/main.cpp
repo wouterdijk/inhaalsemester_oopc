@@ -11,7 +11,7 @@ int main(){
    wall right( w, hwlib::xy( 123,  0 ), hwlib::xy( 127, 63 ), 2, hwlib::xy(-1 , 1));
    wall bottom( w, hwlib::xy(   0, 59 ), hwlib::xy( 127, 63 ), 2, hwlib::xy(1 , -1));
    wall left( w, hwlib::xy(   0,  0 ), hwlib::xy(   4, 63 ), 2, hwlib::xy(-1 , 1));
-   ball b( w, hwlib::xy( 50, 20 ), 9, hwlib::xy( 5, 2 ) );
+   ball b( w, hwlib::xy( 30, 20 ), 9, hwlib::xy( 5, 2 ) );
    
    std::array< drawable *, 5 > objects = { &b, &top, &left, &right, &bottom};
    
