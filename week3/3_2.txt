@@ -9,4 +9,4 @@
 9 = niks
 10 = error, omdat type train niet bij type car kan komen
 11 = error, omdat type intercity niet bij type car kan komen	
-12 = niks
+12 = error, omdat type intercity niet kan referencen naar het type train
